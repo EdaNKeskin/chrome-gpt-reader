@@ -4,14 +4,14 @@ This extension was written as a small experiment in the possibility of using LLM
 
 LLMs are terrible at facts but great at interacting with people. Tradisional screen readers are extremely simplistic, slow and can't provide context to the user.
 
-I wass inspired by the work of OpenAI on ChatGPT 4o and their inclusion in to Be My Eyes.
+I was inspired by the work of OpenAI on ChatGPT 4o and their inclusion in to Be My Eyes.
 https://openai.com/index/be-my-eyes/
 
 What if you could have a conversation with a website?
 
 Only one way to find out!
 
-Ohh and of course, please do not fully rely on the answers provided and expect some rough endges.
+Ohh and of course, please do not fully rely on the answers provided and expect some rough edges.
 
 ## Features
 
